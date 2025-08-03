@@ -1,0 +1,1 @@
+# Static-gesture-image-machine-learning-based-on-GCN
